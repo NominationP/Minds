@@ -13,3 +13,7 @@ yarn-error.log
 
 sftp*
 config*
+
+/logs
+/nginx
+docker*
